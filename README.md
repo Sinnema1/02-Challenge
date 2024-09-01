@@ -8,6 +8,7 @@ The purpose of this challenge was to create a webpage using basic principles of 
 
 - [Installation](#installation)
 - [Usage](#usage)
+- [Mock-Up](#mock-up)
 - [Credits](#credits)
 - [License](#license)
 
